@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/bin/zsh" />
+    <option name="myShellPath" value="%USERPROFILE%\AppData\Local\Microsoft\WindowsApps\ubuntu1804.exe run zsh" />
   </component>
 </application>
